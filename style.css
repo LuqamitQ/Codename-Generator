@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+}
